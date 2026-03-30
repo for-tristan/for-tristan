@@ -36,18 +36,10 @@ I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.e
  
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=for-tristan&show_icons=true&line_height=28&theme=dark" alt="Tristan's Github Stats" />
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=for-tristan&show_icons=true&line_height=24&theme=dark" alt="Tristan's Github Stats" />
 
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=for-tristan&line_height=28&theme=dark" alt="for-tristan" /></p>
+<p><img width="450" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=for-tristan&theme=dark" alt="for-tristan" /></p>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/for-tristan/for-tristan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/for-tristan/for-tristan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/for-tristan/for-tristan/output/pacman-contribution-graph.svg">
-</picture>
-
-###
