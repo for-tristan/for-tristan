@@ -38,8 +38,11 @@ I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.e
 <p align="center">
 <img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=for-tristan&show_icons=true&line_height=24&theme=dark" alt="Tristan's Github Stats" />
 
+
+
 </p>
 
 
-<p><img width="450" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=for-tristan&theme=dark" alt="for-tristan" /></p>
+<p>
+  <img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=for-tristan&theme=dark" alt="for-tristan" /></p>
 
