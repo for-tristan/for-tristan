@@ -47,6 +47,16 @@ I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.e
 <p>
   <img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=for-tristan&theme=dark" alt="for-tristan" /></p>
 
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=wadjihcs&theme=dracula&radius=10" alt="wadjihcs's Activity Graph" />
+</p>
 
 
-##
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+</p>
