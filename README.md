@@ -22,7 +22,7 @@ I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.e
   - 📊 Machine Learning & AI
   - 🖼 Computer Vision
   - 🛠 Linux Ricing
-  - 🤖 Sofware and Games Development
+  - 🤖 Software and Games Development
 - 💬 Ask me about Python, Java, linux, ML, DL, CV, NLP, PR
 - 📙 Check out my <a href="https://www.linkedin.com/in/marwan-montaser-067054387/">Resume</a>
 
