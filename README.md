@@ -19,8 +19,8 @@ I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.e
 
 
 ## My skills 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Im currently working on 
-  - 📊 Machine Learning & AI  <img width="450" align="right" src="https://github.com/user-attachments/assets/0a975b48-2641-491c-95dd-0e88c227741b" />
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Im currently working on <img width="450" align="right" src="https://github.com/user-attachments/assets/0a975b48-2641-491c-95dd-0e88c227741b" />
+  - 📊 Machine Learning & AI  
   - 🖼 Computer Vision  
   - 🛠 Linux Ricing
   - 🤖 Software and Games Development
