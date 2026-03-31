@@ -16,17 +16,17 @@
 @_borneof7_ 
 
 ### about me  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.edu.eg)** majoring in Computer Science. passionate about learning and working. I love making projects  that serve a great deal of purpose. <br/><br/>
+I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.edu.eg)** majoring in Computer Science. passionate about learning and working. I love making projects  that serve a great deal of purpose.
+- 💬 Ask me about Python, Java, linux, ML, DL, CV, NLP, PR
+- 📙 Check out my <a href="https://www.linkedin.com/in/marwan-montaser-067054387/">Resume</a>
+ <br/><br/>
 
-
-## My skills 
+## Im currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - 📊 Machine Learning & AI  
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Im currently working on 
   - 🖼 Computer Vision  
   - 🛠 Linux Ricing
   - 🤖 Software and Games Development
-- 💬 Ask me about Python, Java, linux, ML, DL, CV, NLP, PR
-- 📙 Check out my <a href="https://www.linkedin.com/in/marwan-montaser-067054387/">Resume</a>
+
 
 
 
