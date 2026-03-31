@@ -48,7 +48,7 @@ I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.e
   <img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=for-tristan&theme=dark" alt="for-tristan" /></p>
 
 <p align="center">
-  <img height="280em" align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=for-tristan&theme=dark&radius=10" alt="wadjihcs's Activity Graph" />
+  <img height="280em" align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=for-tristan&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 </p>
 
 
