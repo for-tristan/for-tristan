@@ -1,8 +1,10 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 <h1>Hey, I am <a href="https://github.com/for-tristan">Tristan</a>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  </h1>
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=for-tristan&label=Profile%20views&color=0e75b6&style=flat" alt="for-tristan" /> </p>  <a href="https://github.com/for-tristan?tab=repositories&q=&type=&language=&sort=stargazers">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=for-tristan&label=Profile%20views&color=0e75b6&style=flat" alt="for-tristan" /> </p>  
         <img alt="GitHub Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/for-tristan?logo=star&label=Stars&style=flat&color=55960c&labelColor=488207&logoColor=White"/>
+
+
 
 ### 📬 You Can Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/for-tristan) 
@@ -19,15 +21,14 @@ I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.e
 ## My skills
 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Im currently working on
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Im currently working on  <img width="450" align="right" src="https://github.com/user-attachments/assets/0a975b48-2641-491c-95dd-0e88c227741b" />
   - 📊 Machine Learning & AI
-  - 🖼 Computer Vision
+  - 🖼 Computer Vision  
   - 🛠 Linux Ricing
   - 🤖 Software and Games Development
 - 💬 Ask me about Python, Java, linux, ML, DL, CV, NLP, PR
 - 📙 Check out my <a href="https://www.linkedin.com/in/marwan-montaser-067054387/">Resume</a>
 
-![fabiocoelho-gif-find-share-on-giphy](https://github.com/user-attachments/assets/0a975b48-2641-491c-95dd-0e88c227741b)
 
 
 
