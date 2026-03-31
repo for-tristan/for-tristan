@@ -11,7 +11,7 @@
 
 @_borneof7_ 
 
-### about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### about me  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.edu.eg)** majoring in Computer Science. passionate about learning and working. I love making projects  that serve a great deal of purpose. <br/><br/>
 
 
