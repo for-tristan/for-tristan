@@ -1,14 +1,15 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 <h1>Hey, I am <a href="https://github.com/for-tristan">Tristan</a>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  </h1>
-</h1>
+</h1> <img width="450" align="right" height="1000" src="https://github.com/user-attachments/assets/0a975b48-2641-491c-95dd-0e88c227741b" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=for-tristan&label=Profile%20views&color=0e75b6&style=flat" alt="for-tristan" /> </p>  
         <img alt="GitHub Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/for-tristan?logo=star&label=Stars&style=flat&color=55960c&labelColor=488207&logoColor=White"/>
 
 
 
+
 ### 📬 You Can Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/for-tristan) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/marwan-montaser-067054387/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/marwan-montaser-067054387/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:tristan20us@gmail.com)
 <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
 
@@ -18,7 +19,7 @@
 I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.edu.eg)** majoring in Computer Science. passionate about learning and working. I love making projects  that serve a great deal of purpose. <br/><br/>
 
 
-## My skills <img width="450" align="right" height="1000" src="https://github.com/user-attachments/assets/0a975b48-2641-491c-95dd-0e88c227741b" />
+## My skills 
   - 📊 Machine Learning & AI  
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Im currently working on 
   - 🖼 Computer Vision  
