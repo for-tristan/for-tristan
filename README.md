@@ -2,8 +2,7 @@
 <h1>Hey, I am <a href="https://github.com/for-tristan">Tristan</a>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  </h1>
 </h1> <img width="450" align="right" height="1000" src="https://github.com/user-attachments/assets/0a975b48-2641-491c-95dd-0e88c227741b" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=for-tristan&label=Profile%20views&color=0e75b6&style=flat" alt="for-tristan" /> </p>  
-        <img alt="GitHub Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/for-tristan?logo=star&label=Stars&style=flat&color=55960c&labelColor=488207&logoColor=White"/>
-
+      
 
 
 
