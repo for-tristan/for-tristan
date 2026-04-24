@@ -1,12 +1,11 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 <h1>Hey, I am <a href="https://github.com/for-tristan">Tristan</a>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  </h1>
-</h1> <img width="450" align="right" height="1000" src="https://github.com/user-attachments/assets/0a975b48-2641-491c-95dd-0e88c227741b" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=for-tristan&label=Profile%20views&color=0e75b6&style=flat" alt="for-tristan" /> </p>  
       
 
 
 
-### 📬 You Can Find me at
+### 📬 You Can Find me at <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/for-tristan) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/marwan-montaser-067054387/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:tristan20us@gmail.com)
@@ -15,7 +14,7 @@
 @_borneof7_ 
 
 ### about me  
-I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.edu.eg)** majoring in Computer Science. passionate about learning and working. I love making projects  that serve a great deal of purpose.
+I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.edu.eg)** majoring in Computer Science.I love making projects that serve a great deal of purpose.
 - 💬 Ask me about Python, Java, linux, ML, DL, CV, NLP, PR
 - 📙 Check out my <a href="https://www.linkedin.com/in/marwan-montaser-067054387/">Resume</a>
  <br/><br/>
