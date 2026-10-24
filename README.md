@@ -14,7 +14,7 @@
 @_borneof7_ 
 
 ### about me  
-I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.edu.eg)** majoring in Computer Science and Founder of XFoundry. I love making projects that serve a great deal of purpose.
+I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.edu.eg)** majoring in Computer Science and Founder of [XFoundry](https://github.com/xfoundry-eg). I love making projects that serve a great deal of purpose.
 - 💬 Ask me about Python, Java, linux, ML, DL, CV, NLP, PR
 - 📙 Check out my <a href="https://www.linkedin.com/in/marwan-montaser-067054387/">Resume</a>
  <br/><br/>
