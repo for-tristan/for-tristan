@@ -71,8 +71,8 @@
       "widgetId": "stats",
       "name": "Stats Widget",
       "position": {
-        "x": 0,
-        "y": 664
+        "x": 30,
+        "y": 440
       },
       "size": {
         "width": 800,
@@ -99,7 +99,7 @@
       "name": "Languages Widget",
       "position": {
         "x": 0,
-        "y": 800
+        "y": 584
       },
       "size": {
         "width": 800,
@@ -115,7 +115,9 @@
         "langsCount": 10,
         "backgroundColor": "transparent",
         "animationType": "fade-in",
-        "animationPreviewKey": 1
+        "animationPreviewKey": 1,
+        "animationEasing": "ease-in-out",
+        "lockAspectRatio": true
       },
       "locked": false,
       "visible": true,
@@ -127,7 +129,7 @@
       "name": "Divider Widget",
       "position": {
         "x": 0,
-        "y": 1274
+        "y": 1018
       },
       "size": {
         "width": 800,
@@ -169,11 +171,11 @@
       "name": "Tech-stack Widget",
       "position": {
         "x": 0,
-        "y": 568
+        "y": 352
       },
       "size": {
         "width": 800,
-        "height": 104
+        "height": 128
       },
       "config": {
         "selectedTechs": [
@@ -236,7 +238,7 @@
       "name": "Contribution-snake Widget",
       "position": {
         "x": 0,
-        "y": 1008
+        "y": 768
       },
       "size": {
         "width": 800,
@@ -271,7 +273,7 @@
   "templateId": "blank",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794108182483_1fp8b",
-    "updatedAt": "2026-11-08T03:23:05.377Z"
+    "revision": "rev_1794108538106_9crnx",
+    "updatedAt": "2026-11-08T03:29:01.180Z"
   }
 }
