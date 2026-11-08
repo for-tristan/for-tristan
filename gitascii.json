@@ -1,0 +1,277 @@
+{
+  "username": "for-tristan",
+  "widgets": [
+    {
+      "instanceId": "widget_d0f95651-2d6a-4b90-8235-eab66f8251ca",
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 288,
+        "y": 40
+      },
+      "size": {
+        "width": 504,
+        "height": 280
+      },
+      "config": {
+        "headerColor": "#531516",
+        "labelColor": "#b5b5b5",
+        "valueColor": "#b5b5b5",
+        "statsValColor": "#531516",
+        "hideBorder": true,
+        "showFollowing": false,
+        "showJoined": false,
+        "showTimezone": false,
+        "showAchievements": false,
+        "showPronouns": false,
+        "showHighlights": false,
+        "showStatus": false,
+        "showEmail": false,
+        "showStatsSection": true,
+        "showContactSection": true,
+        "showMainSection": true,
+        "animationType": "typewriter",
+        "animationPreviewKey": 6,
+        "animationDuration": 2000,
+        "backgroundColor": "github-auto",
+        "borderColor": "#7a7a7a",
+        "dotColor": "#484f58",
+        "showGists": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_3ee282a0-d6c3-4eb4-ac5d-898f281bfc82",
+      "widgetId": "avatar",
+      "name": "Avatar Widget",
+      "position": {
+        "x": 24,
+        "y": 56
+      },
+      "size": {
+        "width": 248,
+        "height": 248
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "animationType": "fade-in",
+        "animationPreviewKey": 11,
+        "backgroundColor": "github-auto",
+        "sourceType": "avatar",
+        "animationEasing": "ease-out"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_30a64a0a-bbc7-47bc-ad45-6e14485fb6f5",
+      "widgetId": "stats",
+      "name": "Stats Widget",
+      "position": {
+        "x": 0,
+        "y": 664
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "customTitle": "",
+        "animationType": "fade-in",
+        "animationPreviewKey": 2,
+        "animationEasing": "ease-out",
+        "showTitle": false,
+        "hideBorder": true,
+        "backgroundColor": "github-auto",
+        "borderColor": "github-auto",
+        "textColor": "#b5b5b5"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_c4d0f437-c6de-49ae-896f-0c3dc875415d",
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 0,
+        "y": 800
+      },
+      "size": {
+        "width": 800,
+        "height": 208
+      },
+      "config": {
+        "langsLayout": "bars",
+        "hideLangsArr": [],
+        "hideLangs": "",
+        "textColor": "#b5b5b5",
+        "hideBorder": true,
+        "showTitle": false,
+        "langsCount": 10,
+        "backgroundColor": "transparent",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_c1dbc536-4014-41d9-914e-364f8d72ca20",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 1274
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "hideBorder": true,
+        "showTitle": false,
+        "backgroundColor": "transparent"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_3c188d5f-74e3-4021-866b-05421515ddea",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 2
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "hideBorder": true,
+        "showTitle": false,
+        "backgroundColor": "github-auto"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_346d952b-0700-4c9a-820d-8f806131047f",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 0,
+        "y": 568
+      },
+      "size": {
+        "width": 800,
+        "height": 104
+      },
+      "config": {
+        "selectedTechs": [
+          "py",
+          "html",
+          "rust",
+          "css",
+          "github",
+          "mysql",
+          "vercel",
+          "linux",
+          "java",
+          "git",
+          "cloudflare",
+          "bash"
+        ],
+        "showTitle": false,
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_e046bca0-90d3-459c-a0e3-68d3ebffcd34",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 272,
+        "y": 232
+      },
+      "size": {
+        "width": 528,
+        "height": 56
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "website",
+          "linkedin",
+          "discord"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/for-tristan",
+          "linkedin": "https://www.linkedin.com/in/marwan-montaser-067054387/",
+          "email": "mailto:tristan20us@gmail.com",
+          "website": "https://www.eelu.edu.eg"
+        },
+        "showTitle": false,
+        "badgeStyle": "for-the-badge",
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_86ca6a3b-8968-4b05-ac87-d74b3dddf5b6",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 1008
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {
+        "hideBorder": true,
+        "showTitle": false,
+        "theme": "dark",
+        "branch": "output",
+        "animationType": "none",
+        "animationPreviewKey": 2,
+        "hideDecorations": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "github-auto",
+    "textColor": "#060606",
+    "accentColor": "#531516",
+    "borderColor": "#252525",
+    "fontFamily": "'Inter Tight', sans-serif",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "blank",
+    "transparentBackground": false
+  },
+  "templateId": "blank",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1794108182483_1fp8b",
+    "updatedAt": "2026-11-08T03:23:05.377Z"
+  }
+}
