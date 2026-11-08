@@ -17,8 +17,8 @@
 I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.edu.eg)** majoring in Computer Science and Founder of [XFoundry](https://github.com/xfoundry-eg). I love making projects that serve a great deal of purpose.
 
  
- <a href="https://7ristan7.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/website-7ristan7.pages.dev-F7DF1E?style=for-the-badge&logo=devbox&logoColor=%23ffffff"/>
+ <a href="https://ttristan.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/website-ttristan.pages.dev-F7DF1E?style=for-the-badge&logo=devbox&logoColor=%23ffffff"/>
   </a>
  <br/><br/>
 
