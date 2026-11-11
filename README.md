@@ -23,7 +23,7 @@ I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.e
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,java,linux,vim,py,rust," />
+    <img src="https://skillicons.dev/icons?i=git,bash,java,linux,vim,py,rust,opencv," />
   </a>
 </p>
 
