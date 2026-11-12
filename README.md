@@ -9,7 +9,6 @@
 
 
 
-
 ## about me  
 I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.edu.eg)** majoring in Computer Science and Founder of [XFoundry](https://github.com/xfoundry-eg).
 
@@ -19,7 +18,7 @@ I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.e
     <img src="https://img.shields.io/badge/website-ttristan.pages.dev-F7DF1E?style=for-the-badge&logo=devbox&logoColor=%23ffffff" alt="Website"/>
   </a>
  </p>
-
+ 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +27,12 @@ I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.e
 </p>
 
 
+<p align="center">
+  <img width="49%" src="https://ghstats.dev/api/langs?username=for-tristan&hide_border=true&hide_title=true&max_langs=4&layout=donut" alt="Top Languages" />
+  <img width="49%" src="https://ghstats.dev/api/card?username=for-tristan&hide_border=true&hide_title=true&hide=commits%2Cprs%2Cissues%2Cweek%2Ctrend%2Cfollowers%2Cavg" alt="GitHub Stats Card" />
+</p>
 
+ 
 
 <p align="center">
 <picture>
