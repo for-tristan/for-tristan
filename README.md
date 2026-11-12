@@ -29,7 +29,7 @@ I'm a **Student at EELU [@The Egyptian E-Learning University](https://www.eelu.e
 
 <p align="center">
   <img width="49%" src="https://ghstats.dev/api/langs?username=for-tristan&hide_border=true&hide_title=true&max_langs=4&layout=donut" alt="Top Languages" />
-  <img src="https://ghstats.dev/api/card?username=for-tristan&hide_border=true&hide_title=true&hide=commits%2Cprs%2Cissues%2Cweek%2Ctrend%2Cfollowers%2Cavg%2Cactive_day%2Crepos" alt="GitHub Stats Card" />
+  <img width="49%" src="https://ghstats.dev/api/card?username=for-tristan&hide_border=true&hide_title=true&hide=commits%2Cprs%2Cissues%2Cweek%2Ctrend%2Cfollowers%2Cavg%2Cactive_day%2Crepos" alt="GitHub Stats Card" />
 </p>
 
  
